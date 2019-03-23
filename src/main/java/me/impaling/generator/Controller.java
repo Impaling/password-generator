@@ -10,7 +10,7 @@ import java.awt.datatransfer.StringSelection;
 
 public class Controller {
 
-    private passwordGenerator passwordGenerator = new passwordGenerator();
+    private PasswordGenerator passwordGenerator = new passwordGenerator();
 
     public JFXButton generateButton;
     public CheckBox uppercase;
