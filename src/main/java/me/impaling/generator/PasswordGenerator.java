@@ -14,7 +14,7 @@ import javafx.scene.image.Image;
 import java.awt.*;
 import java.util.Random;
 
-public class passwordGenerator extends Application {
+public class PasswordGenerator extends Application {
 
     private String lowercase = "abcdefghijklmnopqrstuvwxyz";
     private String uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
